@@ -12,7 +12,8 @@ This week we kicked off the project and gave a spotty overview of the potential 
 The next weeks will be about determining a general theme for your project and developing your project hypothesis and statement.  
 To jumpstart the research, we will distribute uncovering potential project directions. The following topics should open up the termin and introduce various interpretations:  
   
-- semantics of sabotage
+- **semantics of sabotage**
+  Sabotage operates across social, cultural, political, and physical contexts to disruption aimed at undermining established systems or power structures.
   
 - sabotage at work:
 
