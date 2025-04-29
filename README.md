@@ -154,7 +154,8 @@ We will start with small group discussions in which you can already start mappin
 11 - 13 Working  
 from 14 Working & Consultations  
 
+Hi, Linus was here :)
+
 
 Hi Aeneas hier mal ein versuch für ein pull request<345
-
 
