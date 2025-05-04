@@ -2,8 +2,10 @@
 
 ## Week 3 - May 5th
 
-Thanks for the great presentations last week! let's keep the pace on monday with the presentations. we will start at  
-10:00 - make sure to be on time 👀  
+Thanks for the great presentations last week! let's keep the pace on monday with the presentations. 
+
+we will start at  10:00 - make sure to be on time 👀  
+
 we'll have a lunch break at 13:00 - 14:00 , after that, the presentations continue
   
 as already discussed, you have to organise who is presenting yourself until all participants have had at least 1 presentation.
