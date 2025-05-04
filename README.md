@@ -2,13 +2,14 @@
 
 ## Week 3 - May 5th
 
-Thanks for the great presentations last week! let's keep the pace on monday with the presentations. we will start at 10:00 - make sure to be on time 👀
-we'll have a lunch break at 13:00 - 14:00 , after that, the presentations continue - also be on time here 👀
+Thanks for the great presentations last week! let's keep the pace on monday with the presentations. we will start at  
+10:00 - make sure to be on time 👀  
+we'll have a lunch break at 13:00 - 14:00 , after that, the presentations continue
+  
+as already discussed, you have to organise who is presenting yourself until all participants have had at least 1 presentation.
+feel free to use the research inputs from last week, pick topics and resources from the suggestions or come up with your own ideas.
 
-as already discussed, you have to organise who is presenting yourself until all participants have had 1 presentation
-feel free to use the research inputs from last week.
-
-looking forward to see you monday on :)
+looking forward to see you monday :)
 
 ## Week 2 - April 29th
 
