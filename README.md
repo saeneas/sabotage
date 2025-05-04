@@ -1,7 +1,5 @@
 # SS25 Sabotage
 
-# SS25 Sabotage
-
 ## Week 3 - May 5th
 
 Thanks for the great presentations last week! let's keep the pace on monday with the presentations. we will start at 10:00 - make sure to be on time 👀
