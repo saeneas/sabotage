@@ -1,5 +1,22 @@
 # SS25 Sabotage
 
+## Week 4 - May 12th
+
+Hi all,
+Thanks again for attending the talks at HAU on Friday — we hope you had a great weekend.
+A couple of important notes for the sessions on Monday and Tuesday:
+
+## MONDAY
+	1	Attendance: Please make sure to attend and be on time for class. Some of you have already reached the maximum number of unexcused absences. Unfortunately, we are required to factor this into your final evaluation.
+	2	Short Presentations: Please organize the short presentations scheduled for Monday. We’re aiming to see at least six presentations. You’re welcome to use the input we’ve already provided or develop your own concepts. Don’t worry about making a perfect presentation — what matters most is engaging with the topic and reflecting on your position within the design field. Coordinate with each other to ensure the topics are distributed well. Multiple presentations on the same topic are fine as long as they explore different perspectives.
+
+## TUESDAY
+We’ll continue with group discussions and 1-on-1 talks about your project outlines and directions.
+Important: You must come prepared with something concrete for us to discuss. The project itself doesn’t need to be fully defined yet, but you should clearly map out what you want to talk about. Time is limited, so come with a focused set of materials — ideally, a selection of  references, texts, or theories presented in a way that’s easy to share on your laptop or screen. be sure that you can confidently present your research results and concluded project directions as we are approaching the end of the research period
+
+Looking forward to seeing you all next week.
+Best, Lukas + Aeneas
+
 ## Week 3 - May 5th
 
 Thanks for the great presentations last week! let's keep the pace on monday with the presentations. 
