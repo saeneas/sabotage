@@ -17,7 +17,9 @@ We’ll continue with group discussions and 1-on-1 talks about your project outl
 Important: You must come prepared with something concrete for us to discuss. The project itself doesn’t need to be fully defined yet, but you should clearly map out what you want to talk about. Time is limited, so come with a focused set of materials — ideally, a selection of  references, texts, or theories presented in a way that’s easy to share on your laptop or screen. be sure that you can confidently present your research results and concluded project directions as we are approaching the end of the research period
 
 Looking forward to seeing you all next week.
-Best, Lukas + Aeneas
+
+Best,
+Lukas + Aeneas
 
 ## Week 3 - May 5th
 
