@@ -10,7 +10,7 @@ A couple of important notes for the sessions on Monday and Tuesday:
 
 -	Attendance: Please make sure to attend and be on time for class. Some of you have already reached the maximum number of unexcused absences. Unfortunately, we are required to factor this into your final evaluation.
 
-- Short Presentations: Please organize the short presentations scheduled for Monday. We’re aiming to see at least six presentations. You’re welcome to use the input we’ve already provided or develop your own concepts. Don’t worry about making a perfect presentation — what matters most is engaging with the topic and reflecting on your position within the design field.  Coordinate with each other to ensure the topics are distributed well. Multiple presentations on the same topic are fine as long as they explore different perspectives.
+- Short Presentations: Please organize the short presentations scheduled for Monday. We’re aiming to see at least six presentations. You’re welcome to use the input we’ve already provided or develop your own concepts. Don’t worry about making a perfect presentation — what matters most is engaging with the topic and reflecting on your position within the design field. Coordinate with each other to ensure the topics are distributed well. Multiple presentations on the same topic are fine as long as they explore different perspectives.
 
 ## TUESDAY
 We’ll continue with group discussions and 1-on-1 talks about your project outlines and directions.
