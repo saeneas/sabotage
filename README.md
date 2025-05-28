@@ -1,5 +1,35 @@
 # SS25 Sabotage
 
+## Week 6 - May 26th
+
+Hey everybody,
+we hope you enjoyed getting external feedback and some new perspectives on your projects. 
+We will welcome Lena Weber for next weeks coding workshop. Attendance and active participation is mandatory.
+It is extremely tedious teaching coding workshops with spotty attendance, so please make sure to be on time.
+We start at 10 sharp - not 10:15 ;-)! Please be also aware that Lena will give a tour through her work and approach on Tuesday at 4 p.m. for which attendance is also mandatory! 
+After last weeks presentations, we are confident that you are well-prepared to get started on your concepts.
+The week will be reserved for the workshop, no additional inputs will be offered. We will offer on-demand consultations on Monday afternoon. 
+
+As you asked - here is a preliminary overview of this semesters schedule:
+
+### April
+- Kickoff and Research
+
+### May
+- 19th End of Research and Concept Kick-Off with Threads&Tits
+
+### June
+- 10th to 17th Concept Presentations
+  - Execution Phase Kick Off
+
+### July
+- 14th Final Presentations
+- 15th Photo Tutorial
+- 17th Documentation Upload (web version) and Rundgang Rehearsal
+- 31st PDF Documentation.
+
+
+
 ## Week 4 - May 12th
 
 Hi all,
