@@ -7,7 +7,7 @@
   
   
 ### Mappenstruktur Submission Deadline: 
-Monday, July 14th, 9:00 PM (sharp)  
+Monday, July 14th, 9:00 PM (sharp)  via this link:
 https://cloud.udk-berlin.de/f/49803562
   
   
