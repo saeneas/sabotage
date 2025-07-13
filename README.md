@@ -1,27 +1,33 @@
 # SS25 Sabotage
 
 ## Presentation Schedule
-Key Dates & Deadlines Overview
+## Key Dates & Deadlines Overview
 ~ ~Exhibition Space Request Deadline: Sunday, July 6th, 8:00 PM~ ~
 
 ~ ~Return Missing Shelves Deadline: Tuesday, July 8th~ ~
 
-Room 402 Clearing Deadline: Monday, July 11th, 4 pm (sharp)
--- THIS IS A MANDATORY GROUP EFFORT from 2 p.m, no exceptions --
+### Room 402 Clearing Deadline: Monday, July 14th, 4 pm (sharp)
+-- THIS IS A MANDATORY GROUP EFFORT from 2 p.m, no exceptions
 
-Final Presentations: Tuesday, July 15th, meet at 9:30, starting at 10:00 AM
--- Be on time (9.30)! Doors will be CLOSED from 9:55. Account for potential hickups with trains, busses, your bike, keys, doctors appointments, wohnungsbesichtigung, job shifts, etc. ;-) --
+### Mappenstruktur Submission Deadline: Monday, July 14th, 9:00 PM (sharp)
 
-Mappenstruktur Submission Deadline: Monday, July 14th, 9:00 PM (sharp)
+### Final Presentations:
+Tuesday, July 15th, meet at 9:30, starting at 10:00 AM
+-- Be on time (9.30)! Doors will be CLOSED from 9:55.
+-- Account for potential hickups with trains, busses, your bike, keys, doctors appointments, wohnungsbesichtigung, job shifts, etc. ;-)
 
-Room 403 Clearing Deadline: Wednesday, July 16th, 12:00 PM (noon)
--- THIS IS A MANDATORY GROUP EFFORT after the presentations, no exceptions --
 
-Course Parcours (Project Showcase): Wednesday, July 16th, 3:00 PM (TBD)
+
+### Room 403 Clearing Deadline: Wednesday, July 16th, 12:00 PM (noon)
+-- THIS IS A MANDATORY GROUP EFFORT, coordinate among yourselves after the presentations, no exceptions --
+
+### Course Parcours (Project Showcase): Wednesday, July 16th, 3:00 PM (TBD)
 
 Rundgang supervision shifts over the weekend. we will provide a link soon!
 
-Final PDF Documentation Deadline: Friday, July 25th
+### Final PDF Documentation Deadline: Friday, July 25th
+
+---
 
 ## Week 7 - June 2nd
 
